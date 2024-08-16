@@ -1,0 +1,17 @@
+﻿  Address.cpp
+  Customer.cpp
+  Date.cpp
+  Delivery.cpp
+  Driver.cpp
+  main.cpp
+  Minibus.cpp
+  Payment.cpp
+  Person.cpp
+  PrivateTaxi.cpp
+  Ride.cpp
+  Taxi.cpp
+C:\Users\itayi\OneDrive\Desktop\TaxiCompany\Ride.cpp(128,8): error C2600: 'Ride::~Ride': cannot define a compiler-generated special member function (must be declared in the class first)
+  TaxiCompany.cpp
+  TripReservation.cpp
+  Generating Code...
+C:\Users\itayi\OneDrive\Desktop\TaxiCompany\Customer.cpp(13,1): warning C4715: 'Customer::operator==': not all control paths return a value

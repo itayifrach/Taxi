@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Ride.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Ride.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Ride.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Ride.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TaxiCompany.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:TaxiCompany.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Delivery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Delivery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Delivery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Delivery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TaxiCompany.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:TaxiCompany.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TripReservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:TripReservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Taxi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Taxi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TripReservation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:TripReservation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Taxi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Taxi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5015104E-52D2-4D7B-BCDB-9FC68B911C2F}|TaxiCompany.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delivery.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Delivery.h",
+              "RelativeDocumentMoniker": "Delivery.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Delivery.h",
+              "RelativeToolTip": "Delivery.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T16:03:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Taxi.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Taxi.h",
+              "RelativeDocumentMoniker": "Taxi.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Taxi.h",
+              "RelativeToolTip": "Taxi.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T20:49:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripReservation.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TripReservation.h",
+              "RelativeDocumentMoniker": "TripReservation.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TripReservation.h",
+              "RelativeToolTip": "TripReservation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T07:45:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Driver.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Driver.h",
+              "RelativeDocumentMoniker": "Driver.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Driver.h",
+              "RelativeToolTip": "Driver.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T20:49:26.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxiCompany.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TaxiCompany.h",
+              "RelativeDocumentMoniker": "TaxiCompany.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TaxiCompany.h",
+              "RelativeToolTip": "TaxiCompany.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwFcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:02:37.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Address.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Address.h",
+              "RelativeDocumentMoniker": "Address.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Address.h",
+              "RelativeToolTip": "Address.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:02:34.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Customer.h",
+              "RelativeDocumentMoniker": "Customer.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Customer.h",
+              "RelativeToolTip": "Customer.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:02:34.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ride.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Ride.h",
+              "RelativeDocumentMoniker": "Ride.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Ride.h",
+              "RelativeToolTip": "Ride.h",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T14:02:06.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 485,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delivery.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Delivery.cpp",
+              "RelativeDocumentMoniker": "Delivery.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Delivery.cpp",
+              "RelativeToolTip": "Delivery.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAjwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T14:17:20.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Date.h",
+              "RelativeDocumentMoniker": "Date.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Date.h",
+              "RelativeToolTip": "Date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T10:15:24.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T21:27:53.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Address.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Address.cpp",
+              "RelativeDocumentMoniker": "Address.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Address.cpp",
+              "RelativeToolTip": "Address.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T20:42:45.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxiCompany.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TaxiCompany.cpp",
+              "RelativeDocumentMoniker": "TaxiCompany.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TaxiCompany.cpp",
+              "RelativeToolTip": "TaxiCompany.cpp",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAmwAkBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T20:28:07.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Customer.cpp",
+              "RelativeDocumentMoniker": "Customer.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Customer.cpp",
+              "RelativeToolTip": "Customer.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T09:20:16.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ride.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Ride.cpp",
+              "RelativeDocumentMoniker": "Ride.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Ride.cpp",
+              "RelativeToolTip": "Ride.cpp",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAMwH8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T14:02:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Driver.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Driver.cpp",
+              "RelativeDocumentMoniker": "Driver.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Driver.cpp",
+              "RelativeToolTip": "Driver.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAYwFgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T10:52:07.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripReservation.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TripReservation.cpp",
+              "RelativeDocumentMoniker": "TripReservation.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\TripReservation.cpp",
+              "RelativeToolTip": "TripReservation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T10:31:17.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Taxi.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Taxi.cpp",
+              "RelativeDocumentMoniker": "Taxi.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Taxi.cpp",
+              "RelativeToolTip": "Taxi.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T10:53:50.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Date.cpp",
+              "RelativeDocumentMoniker": "Date.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Date.cpp",
+              "RelativeToolTip": "Date.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T10:17:42.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payment.h",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Payment.h",
+              "RelativeDocumentMoniker": "Payment.h",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Payment.h",
+              "RelativeToolTip": "Payment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T10:58:20.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cpp",
+              "DocumentMoniker": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Payment.cpp",
+              "RelativeDocumentMoniker": "Payment.cpp",
+              "ToolTip": "C:\\Users\\itayi\\OneDrive\\Desktop\\TaxiCompany\\Payment.cpp",
+              "RelativeToolTip": "Payment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T10:58:47.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
